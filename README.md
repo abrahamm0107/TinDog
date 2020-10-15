@@ -1,2 +1,1 @@
-# TinDog
-A pretty cool one page website!
+TinDog Starting Files
